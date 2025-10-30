@@ -1,0 +1,9 @@
+{
+    "name": "coffee store",
+    "city": "grozny",
+    "items": [
+        "bulochka",
+        "americano"
+    ],
+    "open_now": true
+}
